@@ -1,1 +1,1 @@
-pod repo push RepoRepository ModelA.podspec --verbose --allow-warnings
+pod repo push MyRepo ModelA.podspec --verbose --allow-warnings
